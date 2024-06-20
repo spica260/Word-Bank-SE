@@ -23,6 +23,15 @@ HTML, CSS, SCSS and Javascipt
 • Logo placeholder designed by Maria Pirela for Project02
 
 
+## For future improvements
+
+• Implement a light-dark theme
+
+• Extend the gif search to other types of gif images provided by Giphy
+
+• Block unwanted keywords
+
+
 # Project by
 
 Maria Pirela
