@@ -164,7 +164,13 @@ footer {
     }
 
     .container {
-        height: 400px;
+        height: auto;
+    }
+
+    img {
+        max-width: 98%;
+        height: auto;
+        margin: 5px 2%;
     }
 
     footer {
