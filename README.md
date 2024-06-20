@@ -31,6 +31,10 @@ HTML, CSS, SCSS and Javascipt
 
 • Block unwanted keywords
 
+## Github Pages
+
+[Word-Bank-SE](https://spica260.github.io/Word-Bank-SE/)
+
 
 # Project by
 
