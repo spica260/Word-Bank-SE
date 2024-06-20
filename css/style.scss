@@ -129,3 +129,48 @@ footer {
         }
     }
 }
+
+/*  Responsive  */
+@media only screen and (max-width: 600px) {
+    nav {
+        height: 120px;
+        text-align: center;
+        position: relative;
+
+        .logo {
+            width: auto;
+            float: none;
+            display: inline-block;
+        }
+
+        .search-bar {
+            width: 75%;
+            margin: 25px 12.5%;
+            float: none;
+            text-align: center;
+
+            form {
+                float: none;
+            }
+        }
+    }
+
+    .intro {
+        margin: 50px 10% 10px;
+
+        h5 {
+            font-size: 1.1rem;
+        }
+    }
+
+    .container {
+        height: 400px;
+    }
+
+    footer {
+        p {
+            font-size: 0.5rem;
+        }
+        
+    }
+}
