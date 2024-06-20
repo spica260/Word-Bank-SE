@@ -1,6 +1,28 @@
 # Word-Bank-SE
 Search engine for moving text gif images powered by Giphy
 
+## Installation
+
+Must provide a Giphy Api Key you will obtain it at [Giphy](https://giphy.com/) website.
+
+Change the amount of images you want on your search engine. An example here is 12
+
+```javascript
+let apiKey = "Your Api Key Here";
+let limitImages = 12;
+```
+
+# Developed with
+HTML, CSS, SCSS and Javascipt
+
+
+## Content information
+
+• Royalty-free AI images for user personas profile pictures
+
+• Logo placeholder designed by Maria Pirela for Project02
+
+
 # Project by
 
 Maria Pirela
