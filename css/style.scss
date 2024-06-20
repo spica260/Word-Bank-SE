@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+/*  Change colors and font here  */
+$btn-color: #b0d0d3;
+$primaryColor: #4d4d4d;
+$secondaryColor: #fff;
+$bgColor:  #e8e6e9;
+$primaryFont: 'lilita one', sans-serif;
+$secondaryFont: helvetica, sans-serif;
+$shadow: 0px -2px 15px 3px rgba(192, 132, 151, 0.6);
+
+/*  Css basic reset  */
+* {
+    margin: 0;
+    font: inherit;
+}
+
+body {
+    background: $bgColor;
+    color: $primaryColor;
+}
+
+p {
+    font-size: 1.1rem;
+    font-family: $secondaryFont;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $primaryFont;
+    font-weight: bold;
+    font-size: 1.8rem;
+}
