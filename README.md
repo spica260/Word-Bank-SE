@@ -16,21 +16,6 @@ let limitImages = 12;
 HTML, CSS, SCSS and Javascipt
 
 
-## Content information
-
-• Royalty-free AI images for user personas profile pictures
-
-• Logo placeholder designed by Maria Pirela for Project02
-
-
-## For future improvements
-
-• Implement a light-dark theme
-
-• Extend the gif search to other types of gif images provided by Giphy
-
-• Block unwanted keywords
-
 ## Github Pages
 
 [Word-Bank-SE](https://spica260.github.io/Word-Bank-SE/)
